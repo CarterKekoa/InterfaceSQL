@@ -1,5 +1,6 @@
 # InterfaceSQL
 A text based interface written in Java is used to interacts with SQL database. 
+A PHP interface is also made to interact with the database using barney.
 
 Technical Work: Part 1. Use the database you created in HW-6 (based on the CIA World Factbook) to implement the following program. Note that you can use whatever language you would like (e.g., Python, Java, C++) for the assignment. The program you write should act as a simple text-based interface over your database as described below. Note that your program can assume valid values are given except where noted below (the focus here is on practicing using SQL within a programming language, not on your ability to write a text-based UI).
 
